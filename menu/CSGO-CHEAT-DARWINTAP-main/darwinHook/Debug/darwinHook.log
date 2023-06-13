@@ -1,0 +1,32 @@
+﻿  drawing.cpp
+C:\Users\zmajm\Desktop\menu\CSGO-CHEAT-DARWINTAP-main\darwinHook\drawing.cpp(13,28): warning C4244: аргумент: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\zmajm\Desktop\menu\CSGO-CHEAT-DARWINTAP-main\darwinHook\drawing.cpp(13,24): warning C4244: аргумент: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\zmajm\Desktop\menu\CSGO-CHEAT-DARWINTAP-main\darwinHook\drawing.cpp(14,28): warning C4244: аргумент: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\zmajm\Desktop\menu\CSGO-CHEAT-DARWINTAP-main\darwinHook\drawing.cpp(14,24): warning C4244: аргумент: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\zmajm\Desktop\menu\CSGO-CHEAT-DARWINTAP-main\darwinHook\drawing.cpp(15,18): warning C4244: аргумент: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\zmajm\Desktop\menu\CSGO-CHEAT-DARWINTAP-main\darwinHook\drawing.cpp(31,19): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\zmajm\Desktop\menu\CSGO-CHEAT-DARWINTAP-main\darwinHook\drawing.cpp(32,22): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\zmajm\Desktop\menu\CSGO-CHEAT-DARWINTAP-main\darwinHook\drawing.cpp(34,23): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\zmajm\Desktop\menu\CSGO-CHEAT-DARWINTAP-main\darwinHook\drawing.cpp(35,32): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\zmajm\Desktop\menu\CSGO-CHEAT-DARWINTAP-main\darwinHook\drawing.cpp(37,29): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\zmajm\Desktop\menu\CSGO-CHEAT-DARWINTAP-main\darwinHook\drawing.cpp(38,30): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\zmajm\Desktop\menu\CSGO-CHEAT-DARWINTAP-main\darwinHook\drawing.cpp(40,33): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\zmajm\Desktop\menu\CSGO-CHEAT-DARWINTAP-main\darwinHook\drawing.cpp(41,40): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  main.cpp
+C:\Users\zmajm\Desktop\menu\CSGO-CHEAT-DARWINTAP-main\darwinHook\color.h(4,10): warning C4244: инициализация: преобразование "ImU32" в "float", возможна потеря данных
+C:\Users\zmajm\Desktop\menu\CSGO-CHEAT-DARWINTAP-main\darwinHook\color.h(5,10): warning C4244: инициализация: преобразование "ImU32" в "float", возможна потеря данных
+C:\Users\zmajm\Desktop\menu\CSGO-CHEAT-DARWINTAP-main\darwinHook\color.h(6,10): warning C4244: инициализация: преобразование "ImU32" в "float", возможна потеря данных
+C:\Users\zmajm\Desktop\menu\CSGO-CHEAT-DARWINTAP-main\darwinHook\color.h(7,10): warning C4244: инициализация: преобразование "ImU32" в "float", возможна потеря данных
+C:\Users\zmajm\Desktop\menu\CSGO-CHEAT-DARWINTAP-main\darwinHook\main.cpp(116,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\zmajm\Desktop\menu\CSGO-CHEAT-DARWINTAP-main\darwinHook\main.cpp(117,37): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\zmajm\Desktop\menu\CSGO-CHEAT-DARWINTAP-main\darwinHook\main.cpp(118,37): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\zmajm\Desktop\menu\CSGO-CHEAT-DARWINTAP-main\darwinHook\main.cpp(180,54): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\zmajm\Desktop\menu\CSGO-CHEAT-DARWINTAP-main\darwinHook\main.cpp(179,73): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\zmajm\Desktop\menu\CSGO-CHEAT-DARWINTAP-main\darwinHook\main.cpp(178,49): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\zmajm\Desktop\menu\CSGO-CHEAT-DARWINTAP-main\darwinHook\main.cpp(177,54): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\zmajm\Desktop\menu\CSGO-CHEAT-DARWINTAP-main\darwinHook\main.cpp(225,54): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\zmajm\Desktop\menu\CSGO-CHEAT-DARWINTAP-main\darwinHook\main.cpp(224,73): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\zmajm\Desktop\menu\CSGO-CHEAT-DARWINTAP-main\darwinHook\main.cpp(223,49): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\zmajm\Desktop\menu\CSGO-CHEAT-DARWINTAP-main\darwinHook\main.cpp(222,54): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  Создание кода...
+  darwinHook.vcxproj -> C:\Users\zmajm\Desktop\menu\CSGO-CHEAT-DARWINTAP-main\Debug\darwinHook.dll

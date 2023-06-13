@@ -1,0 +1,9 @@
+﻿  Injector.cpp
+C:\Users\zmajm\Desktop\nosorog.html\VACInjector\Injector.cpp(19,22): error C2664: "int _stricmp(const char *,const char *)": невозможно преобразовать аргумент 1 из "WCHAR [260]" в "const char *"
+C:\Users\zmajm\Desktop\nosorog.html\VACInjector\Injector.cpp(19,41): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции в круглых скобках
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\string.h(189,22): message : см. объявление "_stricmp"
+C:\Users\zmajm\Desktop\nosorog.html\VACInjector\Injector.cpp(19,22): message : при попытке сопоставить список аргументов "(WCHAR [260], const char *)"
+C:\Users\zmajm\Desktop\nosorog.html\VACInjector\Injector.cpp(35,5): error C2664: "DWORD GetFullPathNameW(LPCWSTR,DWORD,LPWSTR,LPWSTR *)": невозможно преобразовать аргумент 1 из "const char [75]" в "LPCWSTR"
+C:\Users\zmajm\Desktop\nosorog.html\VACInjector\Injector.cpp(35,21): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции в круглых скобках
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\fileapi.h(727,1): message : см. объявление "GetFullPathNameW"
+C:\Users\zmajm\Desktop\nosorog.html\VACInjector\Injector.cpp(35,5): message : при попытке сопоставить список аргументов "(const char [75], int, char [260], int)"
